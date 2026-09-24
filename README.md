@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Matheus and I'm a Cybersecurity Student, from Brazil </h2>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="discord logo"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGgyM2pubDl2dGoyOWZpcm9icXl1eDU5cmFqdjh6MWNwMGs3N3Q1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WZrOaNjFPKT5e/giphy.gif" height="42" alt="discord logo"  />
 </div>
 
 ###
